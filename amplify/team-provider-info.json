@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-doczy-dev-142741-authRole",
+      "UnauthRoleArn": "arn:aws:iam::094717603583:role/amplify-doczy-dev-142741-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::094717603583:role/amplify-doczy-dev-142741-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-doczy-dev-142741-deployment",
+      "UnauthRoleName": "amplify-doczy-dev-142741-unauthRole",
+      "StackName": "amplify-doczy-dev-142741",
+      "StackId": "arn:aws:cloudformation:us-east-1:094717603583:stack/amplify-doczy-dev-142741/ef7b81e0-ced8-11ed-a737-0e37f845411b",
+      "AmplifyAppId": "dfk7q37tg5hbt"
+    },
+    "categories": {
+      "auth": {
+        "doczy68f069bc": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dfk7q37tg5hbt",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
