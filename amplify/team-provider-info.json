@@ -12,14 +12,14 @@
       "AmplifyAppId": "dfk7q37tg5hbt"
     },
     "categories": {
-      "auth": {
-        "doczy68f069bc": {}
-      },
       "hosting": {
         "amplifyhosting": {
           "appId": "dfk7q37tg5hbt",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "doczyab3dda73": {}
       }
     }
   }
